@@ -1,0 +1,21 @@
+.container {
+    padding: 10rem 50rem;
+    margin-right: 150%;
+    margin-left: 100%;
+  
+  }
+  
+  h4 {
+    margin: 100rem 0rem 1rem;
+  }
+  
+  .table-image td,
+  .table-image th {
+    vertical-align: center;
+  }
+  
+  .btn{
+    background: #fff;
+    color: darkred;
+    font-size: 1.2em;
+  }
